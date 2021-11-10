@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on my **eCommerce WebApp**
 
-- 🌱 I’m currently learning **Python, Django, HTML5, CSS3, SweetAlert, Chart.Js and Firebase**
+- 🌱 I’m currently learning **Python, Django, HTML5, CSS3, SweetAlert, ChartJs and Firebase**
 
-- 👯 I’m looking to collaborate on **front-end, back-end projects, arduino and IoT**
+- 👯 I’m looking to collaborate on **front-end, back-end, arduino and IoT projects**
 
 - 📫 How to reach me: **avinashkumar2rock@gmail.com**
 
@@ -65,4 +65,4 @@
 -----
 
 [Avinash](https://github.com/rock12231)
-Last Edited on : 10/11/2021
+Last Edited on : 10 + 11 = 21
