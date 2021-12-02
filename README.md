@@ -9,11 +9,9 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-- 🌱 I’m currently learning **Django Python**
+- 🌱 I’m currently learning **C & Java**
 
-- 🔭 I’m currently working on my **eCommerce WebApp**
-
-- 🌱 I’m currently learning **Python, Django, HTML5, CSS3, SweetAlert, ChartJs and Firebase**
+- 🌱 I’m currently working on my **eCommerce WebApp** based on **Python, Django, HTML5, CSS3, SweetAlert, sqlite3, ChartJs and Firebase**
 
 - 👯 I’m looking to collaborate on **front-end, back-end, arduino and IoT projects**
 
