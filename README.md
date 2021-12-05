@@ -9,7 +9,7 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-- 🌱 I’m currently learning **C & Java**
+- 🌱 I’m currently learning **C & Core Java**
 
 - 🌱 I’m currently working on my **eCommerce WebApp** based on **Python, Django, HTML5, CSS3, SweetAlert, sqlite3, ChartJs and Firebase**
 
