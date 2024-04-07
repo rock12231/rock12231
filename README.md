@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
 
-<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="35">, I'm Avinash Kumar <img src="https://camo.githubusercontent.com/8dd1044426df54e4ae42f9df9d1957f058c02333f8776e66dc6d371a442529af/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313539333535353338392f393537392f626c6f625f657863697465642e6769663f31353933353535333839" alt="yo"  height="35" /></h1>
+<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="35">, I'm Avinash Kumar <img src="https://camo.githubusercontent.com/8dd1044426df54e4ae42f9df9d1957f058c02333f8776e66dc6d371a442529af/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313539333535353338392f393537392f626c6f625f657863697465642e6769663f31353933353535333839" alt="img"  height="35" /></h1>
 
 <h3>A passionate full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
