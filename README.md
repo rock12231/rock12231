@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently working on my **WebApp** based on **NodeJS, Prisma, NextJS,Python, Django,DRF, API, HTML5, CSS, SweetAlert, sqlite3**
 
-- 👯 I’m looking to collaborate on **front-end, back-end, arduino and IoT projects**
+- 👯 I’m looking to collaborate on **Frontend, Backend, Pi, Arduino, IoT, Robotics Projects**
 
 - 📫 How to reach me: **avinashkumar2rock@gmail.com**
 
