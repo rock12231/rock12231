@@ -9,9 +9,9 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **AI, GEN-AI, GPT4, LLM, LSTM, Prediction, Algorithm**
 
-- 🌱 I’m currently working on my **WebApp** based on **Python, Django, HTML5, CSS, SweetAlert, sqlite3, Prediction algorithm**
+- 🌱 I’m currently working on my **WebApp** based on **NodeJS, Prisma, NextJS,Python, Django,DRF, API, HTML5, CSS, SweetAlert, sqlite3**
 
 - 👯 I’m looking to collaborate on **front-end, back-end, arduino and IoT projects**
 
